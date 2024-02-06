@@ -12,7 +12,7 @@ body {
   width: 500px;
   height: 100px;
   background-color: black;
-  border: solid #ED9612 2px;
+  border: solid #ed9612 2px;
   -webkit-box-shadow: 4px -4px 5px 0px rgba(240,151,0,1);
   -moz-box-shadow: 4px -4px 5px 0px rgba(240,151,0,1);
   box-shadow: 4px -4px 5px 0px rgba(240,151,0,1);
@@ -29,9 +29,9 @@ img {
   height: 100px;
   border: solid black 2px;
   border-radius: 50%;
-  -webkit-box-shadow: 5px 5px 5px 0px rgba(45,1,1,1);
--moz-box-shadow: 5px 5px 5px 0px rgba(45,1,1,1);
-box-shadow: 5px 5px 5px 0px rgba(45,1,1,1);
+  -webkit-box-shadow: 4px 4px 5px 0px rgba(237,150,18,1);
+  -moz-box-shadow: 4px 4px 5px 0px rgba(237,150,18,1);
+  box-shadow: 4px 4px 5px 0px rgba(237,150,18,1);
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
