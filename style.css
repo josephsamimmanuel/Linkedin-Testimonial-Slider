@@ -5,22 +5,22 @@ body {
   height: 100vh;
   align-items: center;
   font-family: cursive;
-  background-color: #67666C;
+  background-color: #ededf9;
 }
 
 .testimonial-container {
   width: 500px;
   height: 100px;
-  background-color: #D76A6F;
-  border: solid black 2px;
--webkit-box-shadow: 3px -3px 5px 0px rgba(45,1,1,1);
--moz-box-shadow: 3px -3px 5px 0px rgba(45,1,1,1);
-box-shadow: 3px -3px 5px 0px rgba(45,1,1,1);
+  background-color: black;
+  border: solid #ED9612 2px;
+  -webkit-box-shadow: 4px -4px 5px 0px rgba(240,151,0,1);
+  -moz-box-shadow: 4px -4px 5px 0px rgba(240,151,0,1);
+  box-shadow: 4px -4px 5px 0px rgba(240,151,0,1);
   border-radius: 10px;
   min-width: 400px;
   padding: 70px 20px;
   margin: 5px;
-  color: black;
+  color: #ffffff;
   position: relative;
 }
 
